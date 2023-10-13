@@ -1,0 +1,8 @@
+.container{
+    width: 90% !important;
+}
+
+.gap-2{
+    display: flex;
+    gap: 20px;
+}
